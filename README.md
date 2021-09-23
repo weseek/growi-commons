@@ -1,4 +1,4 @@
-# DEPRECATED: Moved to [@growi/core](https://github.com/weseek/growi/tree/master/packages/core)
+# DEPRECATED: This package was moved to [@growi/core](https://github.com/weseek/growi/tree/master/packages/core)
 
 # growi-commons
 
