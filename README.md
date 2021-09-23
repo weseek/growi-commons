@@ -1,7 +1,7 @@
+# DEPRECATED: Moved to [@growi/core](https://github.com/weseek/growi/tree/master/packages/core)
+
 # growi-commons
 
-[![dependencies status](https://david-dm.org/weseek/growi-commons.svg)](https://david-dm.org/weseek/growi-commons)
-[![devDependencies Status](https://david-dm.org/weseek/growi-commons/dev-status.svg)](https://david-dm.org/weseek/growi-commons?type=dev)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 [GROWI](https://growi.org) Commons Libraries to develop GROWI and plugins
